@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "type": "accessory",
+        "title": "product 1",
+        "price": 100.99,
+        "description": "Descrição do item 1",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-1.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "type": "hat",
+        "title": "product 2",
+        "price": 30.2,
+        "description": "Descrição do item 2",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-2.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "type": "shirt",
+        "title": "product 3",
+        "price": 20.99,
+        "description": "Descrição do item 3",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-3.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "type": "hat",
+        "title": "product 4",
+        "price": 10.99,
+        "description": "Descrição do item 4",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-4.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "type": "shirt",
+        "title": "product 5",
+        "price": 15.99,
+        "description": "Descrição do item 5",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-5.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "type": "pants",
+        "title": "product 6",
+        "price": 40.0,
+        "description": "Descrição do item 6",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-6.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "type": "pants",
+        "title": "product 7",
+        "price": 42.0,
+        "description": "Descrição do item 7",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-7.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "type": "accessory",
+        "title": "product 8",
+        "price": 50.0,
+        "description": "Descrição do item 8",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-8.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "type": "hat",
+        "title": "product 9",
+        "price": 25.0,
+        "description": "Descrição do item 9",
+        "image": {
+          "fields": { "file": { "url": "./../../public/images/product-9.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "type": "hat",
+        "title": "product 10",
+        "price": 15.0,
+        "description": "Descrição do item 10",
+        "image": {
+          "fields": {
+            "file": { "url": "./../../public/images/product-10.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "type": "hat",
+        "title": "product 11",
+        "price": 16.4,
+        "description": "Descrição do item 11",
+        "image": {
+          "fields": {
+            "file": { "url": "./../../public/images/product-11.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "type": "shirt",
+        "title": "product 12",
+        "price": 13.99,
+        "description": "Descrição do item 12",
+        "image": {
+          "fields": {
+            "file": { "url": "./../../public/images/product-12.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "type": "shoes",
+        "title": "product 13",
+        "price": 50.0,
+        "description": "Descrição do item 13",
+        "image": {
+          "fields": {
+            "file": { "url": "./../../public/images/product-13.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "type": "shoes",
+        "title": "product 14",
+        "price": 45.99,
+        "description": "Descrição do item 14",
+        "image": {
+          "fields": {
+            "file": { "url": "./../../public/images/product-14.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "type": "shoes",
+        "title": "product 15",
+        "price": 40.99,
+        "description": "Descrição do item 15",
+        "image": {
+          "fields": {
+            "file": { "url": "./../../public/images/product-15.jpg" }
+          }
+        }
+      }
+    }
+  ]
+}
